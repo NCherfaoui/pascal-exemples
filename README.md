@@ -1,11 +1,12 @@
-# Exemples Pascal : Calculatrice et Gestion de Contacts
+# Exemples Pascal : Calculatrice, Gestion de Contacts et Gestion de Bibliothèque
 
-Ce dépôt GitHub contient deux exemples simples de programmes en Pascal : une calculatrice et une application de gestion de contacts. Ces programmes sont conçus pour illustrer les concepts de base de la programmation en Pascal.
+Ce dépôt GitHub contient trois exemples simples de programmes en Pascal : une calculatrice, une application de gestion de contacts, et une application de gestion de bibliothèque. Ces programmes sont conçus pour illustrer les concepts de base de la programmation en Pascal.
 
 ## Contenu du dépôt
 
 - `Calculatrice.pas` : Un programme simple de calculatrice qui permet d'effectuer des opérations de base (addition, soustraction, multiplication, division).
 - `GestionContacts.pas` : Une application de gestion de contacts qui permet d'ajouter, afficher et rechercher des contacts.
+- `GestionBibliotheque.pas` : Une application de gestion de bibliothèque qui permet d'ajouter des livres, de les afficher, de les rechercher, et de les emprunter/rendre.
 
 ## Prérequis
 
@@ -52,6 +53,18 @@ Pour compiler et exécuter ces programmes, vous devez avoir installé le compila
 2. Exécutez le programme :
    ```sh
    ./GestionContacts
+   ```
+
+### Gestion de Bibliothèque
+
+1. Compilez le programme `GestionBibliotheque.pas` :
+   ```sh
+   fpc GestionBibliotheque.pas
+   ```
+
+2. Exécutez le programme :
+   ```sh
+   ./GestionBibliotheque
    ```
 
 ## Fichiers intermédiaires
