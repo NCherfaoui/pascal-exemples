@@ -86,4 +86,4 @@ Le fichier objet (`.o`) est un fichier binaire intermédiaire qui n'est pas dest
 
 ## Conclusion
 
-Ce dépôt fournit des exemples simples de programmes en Pascal pour illustrer les concepts de base de la programmation. En suivant les instructions de compilation et d'exécution, vous pouvez facilement tester ces programmes sur votre système. Les fichiers objets géXnérés lors de la compilation peuvent être inspectés à l'aide d'outils spécifiques pour comprendre leur contenu.
+Ce dépôt fournit des exemples simples de programmes en Pascal pour illustrer les concepts de base de la programmation. En suivant les instructions de compilation et d'exécution, vous pouvez facilement tester ces programmes sur votre système. Les fichiers objets générés lors de la compilation peuvent être inspectés à l'aide d'outils spécifiques pour comprendre leur contenu.
